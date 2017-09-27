@@ -1,4 +1,4 @@
-# _2017_Lab_Logistic_Regression_Bayesian_Decision_Theory
+# Lab_Logistic_Regression_Bayesian_Decision_Theory_MATLAB
 
 Ryerson 2017 lab
 
